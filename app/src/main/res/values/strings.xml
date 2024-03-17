@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">movies-app</string>
+    <string name="popular_films">Popular Films</string>
+</resources>
